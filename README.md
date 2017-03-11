@@ -2,6 +2,12 @@
 
 Single file PHP script that adds authentication to a [PHP-CRUD-API](https://github.com/mevdschee/php-crud-api) project.
 
+NOTE: This repo is a clone of the original.  Branches:
+
+  - master : development branch
+  - bugfix : clone of original master for sending bugfixes
+  - apiKey : apiKey support for swagger.io
+
 ## Requirements
 
   - PHP 5.3 or higher
