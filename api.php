@@ -66,7 +66,7 @@
 //if (!$auth->hasValidApiKey()) {
 //        header('HTTP/1.0 401 Unauthorized');
 //        exit(0);
-//} 
+//}
 
 // include your api code here:
 //
